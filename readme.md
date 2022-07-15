@@ -1,4 +1,4 @@
 # Description
 
 # How to use
-+ run ``main.py``
++ run ``main.py``, enter target dir

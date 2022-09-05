@@ -1,0 +1,2 @@
+/home/cabbage/.conda/envs/sci/lib/python3.9/site-packages/pipreqs
+
